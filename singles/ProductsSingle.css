@@ -1,0 +1,79 @@
+.messagebtnn{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 33px;
+    background: transparent;
+    border: 2px solid rgb(67 0 86);
+    font-weight: bold;
+    letter-spacing: 3px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin-left: 90px;
+}
+.messagebtnn button :hover{
+    background-color: rgb(67 0 86);
+    color: white;
+}
+.fl{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ind-image{
+    width: 500px;
+    height: 500px;
+}
+.ind-image img{
+    width: 100%;
+}
+.ind-section{
+    display: flex;
+}
+.ind-details{
+    padding: 20px;
+}
+.space{
+    margin: 10px;
+}
+.ind-details button{
+    background-color: lightblue;
+    padding: 3px;
+    width: 6rem;
+    border-radius: 5px;
+    columns: white;
+    /* margin-left: 10px; */
+}
+.ind-title{
+    margin-top: 70px;
+}
+.ind-details{
+    margin-left: 80px;
+}
+.ind-details h4,h6{
+    margin-left: 10px;
+}
+.ind-desc p{
+    color: green;
+    margin-top: 10px;
+}
+.ind-desc h6{
+    margin: 0;
+    line-height: 20px;
+}
+
+@media screen and (max-width:400px){
+    .ind-image img{
+        width: 100%;
+    }
+    
+   
+}
+@media screen and (max-width:320px){
+      .ind-image img{
+        width: 100%;
+    }
+    
+    .space{
+        font-size: 200px;
+    }
+}

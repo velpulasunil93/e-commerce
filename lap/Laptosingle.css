@@ -1,0 +1,47 @@
+.sec{
+    display: flex;
+}
+.paraaa{
+    margin: 150px 0px 0px 90px;
+    color: black;
+}
+.image-fl{
+    margin: 100px 0px 0px 70px;
+        box-shadow: 0px 0px 4px 0px rgb(186, 180, 180);
+
+}
+.of{
+    color: green;
+}
+.btnn{
+    background-color: lightblue;
+    padding: 3px;
+    width: 6rem;
+    border-radius: 5px;
+    columns: white;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+   text-decoration: none;
+   color: inherit;
+}
+@media screen and (max-width:400px){
+    .image-fl img{
+        width: 100%;
+    }
+    .sec{
+        display: block;
+    }
+   
+}
+@media screen and (max-width:320px){
+      .image-fl img{
+        width: 100%;
+    }
+    .sec{
+        display: block;
+    }
+}
