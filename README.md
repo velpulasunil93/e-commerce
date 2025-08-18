@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# 🛒 E-Commerce Web App
+#  E-Commerce Web App
 
 A modern **E-Commerce platform** built with **React.js**, featuring product listing, shopping cart, and order management.  
 Designed with a clean UI and responsive layout for a seamless shopping experience.  
@@ -10,14 +10,14 @@ Designed with a clean UI and responsive layout for a seamless shopping experienc
 -  Product listing with categories
 -  Search and filter products
 -  Add to Cart & Remove from Cart
-- ❤ Wishlist functionality
+-  Wishlist functionality
 -  User authentication (Login/Register)
 -  Checkout flow (order summary, address, payment - demo)
 -  Responsive design for mobile & desktop
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend:** React.js, React Router, Context API / Redux
 - **Styling:**  Bootstrap
 
