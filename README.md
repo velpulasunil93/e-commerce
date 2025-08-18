@@ -26,5 +26,5 @@ Designed with a clean UI and responsive layout for a seamless shopping experienc
 ## ⚡ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/velpulasunil93/ecommerce.git
+   git clone https://github.com/velpulasunil93/e-commerce.git
    cd ecommerce-react
